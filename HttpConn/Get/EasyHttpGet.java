@@ -7,7 +7,7 @@ import org.apache.http.client.fluent.Request;
 
 /**
  * @ClassName: EasyHttpGet
- * @Description: TODO最简单的HttpGets
+ * @Description: TODO最简单的HttpGet
  * @author solomonsuheng
  * @date 2014年5月19日 上午11:14:30
  */
